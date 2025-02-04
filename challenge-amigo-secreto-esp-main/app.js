@@ -1,7 +1,7 @@
 let listaDeAmigos = document.getElementById("listaAmigos");
 let inputAmigo = document.getElementById("amigo");
 let resultadoAmigoSorteado = document.getElementById("resultado");
-let ftvygbhn
+
 
 function agregarAmigo() {
     let nombreAmigo = inputAmigo.value.trim(); // Eliminar espacios al inicio y al final
